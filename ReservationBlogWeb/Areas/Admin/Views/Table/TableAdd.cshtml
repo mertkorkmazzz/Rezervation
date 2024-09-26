@@ -1,0 +1,40 @@
+﻿@using Blog.Entity.DTOs.TablesDTOs
+@model TableCreateDTO
+
+@{
+    Layout = "_AdminLayout"; // Admin layout dosyanızın adı
+}
+
+<div class="card card-info" style="width: 70%;">
+    <div class="card-header">
+        <h3 class="card-title">Masa Ekleme</h3>
+    </div>
+
+    <!-- Model binding için asp-for kullanıldı -->
+    <form class="form-horizontal" asp-action="TableAdd" method="post">
+        <div class="card-body">
+            <div class="form-group row">
+                <label for="tableNumber" class="col-sm-2 col-form-label">Masa Numarası</label>
+                <div class="col-sm-8">
+                    <!-- Model ile bind edilen input -->
+                    <input type="text" class="form-control" id="tableNumber"
+                           name="TableNumber" asp-for="TableNumber"
+                           placeholder="Masa numarası girin">
+                    <!-- Model validasyonu için hata mesajı -->
+                    <span asp-validation-for="TableNumber" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="card-footer">
+            <button type="submit" class="btn btn-info">Kaydet</button>
+            <a href="@Url.Action("TableList", "Table", new { Area = "Admin" })"
+               class="btn btn-default float-right">İptal</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <!-- Validation için gerekli script -->
+    <partial name="_ValidationScriptsPartial" />
+}

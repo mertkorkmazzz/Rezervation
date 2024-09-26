@@ -1,0 +1,17 @@
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\bin\Debug\net8.0\Blog.Service.deps.json
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\bin\Debug\net8.0\Blog.Service.dll
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\bin\Debug\net8.0\Blog.Service.pdb
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\obj\Debug\net8.0\Blog.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\obj\Debug\net8.0\Blog.Service.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\obj\Debug\net8.0\Blog.Service.AssemblyInfo.cs
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\obj\Debug\net8.0\Blog.Service.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\obj\Debug\net8.0\Blog.Service.dll
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\obj\Debug\net8.0\refint\Blog.Service.dll
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\obj\Debug\net8.0\Blog.Service.pdb
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\obj\Debug\net8.0\ref\Blog.Service.dll
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\bin\Debug\net8.0\Blog.Dal.dll
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\bin\Debug\net8.0\Blog.Entity.dll
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\bin\Debug\net8.0\Blog.Dal.pdb
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\bin\Debug\net8.0\Blog.Entity.pdb
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\obj\Debug\net8.0\Blog.Service.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Service\obj\Debug\net8.0\Blog.Ser.A0DBEB3C.Up2Date

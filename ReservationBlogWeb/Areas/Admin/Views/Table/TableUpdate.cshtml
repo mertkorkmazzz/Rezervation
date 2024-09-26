@@ -1,0 +1,24 @@
+﻿@using Blog.Entity.DTOs.TablesDTOs
+@model TableUpdateDTO
+
+
+@{
+    Layout = "_AdminLayout"; // Admin layout dosyanızın adı
+}
+
+<h2>Update Table</h2>
+
+<form asp-area="Admin" asp-action="TableUpdate" method="post">
+    <div class="form-group">
+        <label asp-for="TableNumber" class="control-label"></label>
+        <input asp-for="TableNumber" class="form-control" />
+        <span asp-validation-for="TableNumber" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update Table</button>
+    <a asp-action="TableList" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

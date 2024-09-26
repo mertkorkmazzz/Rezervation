@@ -1,0 +1,32 @@
+﻿@using Blog.Entity.DTOs.TablesDTOs
+@model IEnumerable<TableDTO>
+
+
+@{
+    Layout = "_AdminLayout"; // Admin layout dosyanızın adı
+}
+
+<h2>Kayıtlı Masalar</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Masa No</th>
+          
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var table in Model)
+        {
+            <tr>
+                <td>@table.TableNumber</td>
+              @*   <td>
+                    <a asp-action="TableUpdate" asp-route-id="@table.Id" class="btn btn-primary">Update</a>
+                    <a asp-action="TableDelete" asp-route-id="@table.Id" class="btn btn-danger">Delete</a>
+                </td> *@
+            </tr>
+        }
+    </tbody>
+</table>
+
+@* <a asp-controller="Table" asp-action="TableAdd" class="btn btn-success">Add New Table</a> *@

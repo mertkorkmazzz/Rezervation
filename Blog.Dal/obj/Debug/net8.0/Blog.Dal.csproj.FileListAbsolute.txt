@@ -1,0 +1,17 @@
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\bin\Debug\net8.0\Blog.Dal.deps.json
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\bin\Debug\net8.0\Blog.Dal.runtimeconfig.json
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\bin\Debug\net8.0\Blog.Dal.dll
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\bin\Debug\net8.0\Blog.Dal.pdb
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\obj\Debug\net8.0\Blog.Dal.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\obj\Debug\net8.0\Blog.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\obj\Debug\net8.0\Blog.Dal.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\obj\Debug\net8.0\Blog.Dal.AssemblyInfo.cs
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\obj\Debug\net8.0\Blog.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\obj\Debug\net8.0\Blog.Dal.dll
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\obj\Debug\net8.0\refint\Blog.Dal.dll
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\obj\Debug\net8.0\Blog.Dal.pdb
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\obj\Debug\net8.0\Blog.Dal.genruntimeconfig.cache
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\obj\Debug\net8.0\ref\Blog.Dal.dll
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\bin\Debug\net8.0\Blog.Entity.dll
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\bin\Debug\net8.0\Blog.Entity.pdb
+C:\Users\Mert\Desktop\HomeProjeler\ReservationBlogWeb\Blog.Dal\obj\Debug\net8.0\Blog.Dal.csproj.Up2Date
